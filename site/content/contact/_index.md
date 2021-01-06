@@ -1,6 +1,5 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
     text: "A3FOD, Jains Palm N Meadows, Ammapalayam, Tiruppur- 641652, Tamil Nadu"
