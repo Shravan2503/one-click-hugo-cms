@@ -1,11 +1,10 @@
 ---
 title: "Contact"
-heading: "The Script Express"
 contact_entries:
   - heading: Location
     text: "A3FOD, Jains Palm N Meadows, Ammapalayam, Tiruppur- 641652, Tamil Nadu"
   - heading: Working hours
-    text: "Monday-Saturday : 9:30 AM – 7 PM We’re closed on Sundays"
+    text: "Monday-Saturday : 9:30AM-7PM"
 ---
 
 We’d love to get in touch with you and hear your ideas and
